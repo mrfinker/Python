@@ -17,7 +17,7 @@ print()
 
 print("Caleb" * 2)
 print(3 * 'King')
-print(3 * '7 ')
+print(3 * '7')
 print(("A" + "B") * (1 + 2))
 print()
 
