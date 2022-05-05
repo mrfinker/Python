@@ -9,4 +9,5 @@ print()
 age_1 = input()
 print(type(age_1))
 int(age_1)
-print(type(age_1))
+print(type(int(age_1)))
+
