@@ -96,3 +96,4 @@ les parenthèses d'abord, puis l'exponentiation, puis la multiplication/division
 """
 
 print(1 + 1 * 3)
+print(2 * 2 + 2)
