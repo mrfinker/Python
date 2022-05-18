@@ -1,5 +1,5 @@
-from unittest import TextTestResult
 import kivy
+from unittest import TextTestResult
 
 from kivy.app import App
 from kivy.uix.label import Label
