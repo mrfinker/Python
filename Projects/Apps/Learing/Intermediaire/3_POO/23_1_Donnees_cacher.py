@@ -28,5 +28,5 @@ class pom:
 s = pom()
 s.print__oeuf()
 print(s._pom__oeuf)
-print(s.__oeuf)
+##print(s.__oeuf)
 print()
