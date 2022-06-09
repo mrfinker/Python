@@ -61,3 +61,4 @@ nums = [5,65,8,6,9,55,88,7,4,5,55,88,999666,555,44,522,555,]
 sort_num = selection_sort(nums)
 print(sort_num)
 print()
+
