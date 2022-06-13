@@ -22,7 +22,7 @@ data = pd.read_html(r.text)
 print(data[0])
 print()
 
-data = data[data["Earnings Estimate"] == "Avg. Estimate"]
+data = data[data["Earnings Estimate"] == "Avg.Estimate"]
 data.plot(kind="bar")
 
 url_link = "https://www.test.com"
